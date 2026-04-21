@@ -119,3 +119,13 @@ git commit -m "Initial UPU Origami field release"
 ```
 
 Choose a license before publishing, for example MIT for permissive open source.
+
+## References / Zenodo
+
+This project is connected to the broader UPU / ECR / Unity research line documented here:
+
+- **ECR / Unity field framework**  
+  https://doi.org/10.5281/zenodo.19652991
+
+- **Extended formulation and numerical experiments**  
+  https://doi.org/10.5281/zenodo.19643454
