@@ -1,0 +1,12 @@
+{
+  "phi_gain": 1.0,
+  "k_gain": 1.0,
+  "temperature": 0.46,
+  "ustar_pull": 0.21,
+  "four_u_radius": 1.8,
+  "golden_lock": 1.61803398875,
+  "z_coherence_gain": 1.0,
+  "mixed_bridge_gain": 0.72,
+  "rotation_speed": 1.0,
+  "phase_twist": 0.53
+}

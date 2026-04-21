@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+upu_loop_history/
+*.html
+live_*.json
+live_scene.html
+best_config.json
+upu_field_config_next.json
